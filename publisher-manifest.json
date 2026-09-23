@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b4109dd09389f1a9636e2c3a",
+  "owner": "tiaenzvpvn",
+  "repo": "page-6375161868cfeee7145f83d6",
+  "title": "雨燕云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6375161868cfeee7145f83d6",
+      "a": "雨燕云",
+      "b": "稳定全球clash加速器",
+      "entity": "雨燕云",
+      "brand": "雨燕云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "346b998a4d0462a7934965c91041ffc36ad9bddb24f7815562892353dcbd7bf7",
+      "content": {
+        "primary_entity": "雨燕云",
+        "keyword1": "雨燕云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统对应选择客户端，导入订阅后即可开始使用。",
+          "AI_CLIENTS_TITLE": "多平台客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺手",
+          "AI_DESCRIPTION": "，雨燕云提供基础版、旗舰版与团队版三档方案。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，含全节点原生流媒体解锁与 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，含 VIP 专属高带宽节点与企业定制路由。月付与年付均可选，年付价格约为十个月费用。客户端导入订阅后即可开始使用，适合个人、家庭与小型团队按需选择。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备数量与订阅周期展开，帮助快速定位合适方案。",
+          "AI_FEATURES_TITLE": "选购前关注的三个要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备总量选择即可。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，轻度浏览与多设备共享各有对应。",
+          "AI_FEATURE_TITLE_2": "流量档位清晰",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版约 ¥150、旗舰版约 ¥350、团队版约 ¥850。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成客户端订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "雨燕云提供基础版、旗舰版与团队版三档订阅方案，覆盖每月 100GB 至 1000GB 流量，分别支持 3 台、5 台与 20 台设备同时在线。旗舰版含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由，按设备数量与使用场景即可选到合适档位。",
+          "AI_HERO_SUBTITLE": "三档订阅，按需匹配设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持企业定制路由",
+          "AI_PLANS_INTRO": "三档方案在流量、设备数与线路权益上逐级提升，按实际用量对照选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "对照每月流量、同时在线设备数与线路权益，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "确认设备系统是否在对应客户端支持范围内，并核对订阅周期与价格。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅，按客户端文档完成节点与规则配置。",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_VISUAL_TITLE": "雨燕云·订阅选型一览",
+          "AI_FAQ_ANSWER_1": "支持 Windows、macOS、Android、iOS 及 OpenWrt 路由器。不同系统有对应的主流客户端，选择时参考设备类型与系统版本即可。",
+          "AI_FAQ_ANSWER_2": "基础版限 3 台，旗舰版限 5 台，团队版限 20 台。在线设备同时超过上限时，较早连接的设备会被断开，需要手动下线其他设备。",
+          "AI_FAQ_ANSWER_3": "流量按自然月重置，未用完的部分不结转至下月。团队版流量池较大，适合多人共享场景。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算。基础版年付 150 元、旗舰版 350 元、团队版 850 元。如果确认长期使用，直接选年付可以节省约两个月费用。",
+          "AI_FAQ_ANSWER_5": "在客户端中粘贴订阅地址并更新配置，节点列表会自动载入。选择延迟较低的节点连接后，即可在浏览器或其他应用中访问所需内容。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "雨燕云支持哪些客户端？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何限制？",
+          "AI_FAQ_QUESTION_3": "套餐流量是按月重置还是按总量计算？",
+          "AI_FAQ_QUESTION_4": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "如何导入订阅并开始使用？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "frakcyv.cn",
+    "host": "frakcyv.cn"
+  },
+  "file_hashes": {
+    "index.html": "dde08869a126e2b36f0d2ddf600962a5ebf902049f53d903127e403af67c2639",
+    "sitemap.xml": "410ba15258f490bdd54b3203f3606b010d11e860c4f70f4e4be8b82e7e37bbf7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "084e71d138a0f45c880e06cda33b838e8544979e00684610144bc061f21a2677",
+    "robots.txt": "fcacef38bd2a8b7eb17d62b05aabf08d936928e0661ec3e3b060227b7e8dd9fc",
+    "8ecdab111683e426cf5478410590a614.txt": "9c12a31fa42dcb3ad070f7e6537159ca6fc7ae485e5acecf44d8f20166ed55c3"
+  },
+  "revision": "7b259f9592b5918bb56e3f78a87ceb20b7b621ef37948fae03b9b9c3ffc11d8c"
+}
